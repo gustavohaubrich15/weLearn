@@ -1,0 +1,5 @@
+export {LoginScreen} from '../pages/loginscreen/Loginscreen'
+export {HomeScreen} from '../pages/homescreen/Homescreen'
+export {InicioScreen} from '../pages/homescreen/subhome/inicioscreen/Inicioscreen'
+export {TrilhasScreen} from '../pages/homescreen/subhome/trilhasscreen/Trilhasscreen'
+export {PlayScreen} from '../pages/playscreen/Playscreen'

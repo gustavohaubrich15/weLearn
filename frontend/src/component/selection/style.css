@@ -1,0 +1,26 @@
+.selection{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    font-family: 'Varela Round';
+    font-size: 20px;
+    background-color: #3b81948f;
+    overflow: hidden;
+}
+.selection:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.logo{
+    padding:20px;
+}
+
+
+.logo > svg{
+    padding-left: 10%;
+    height:22px;
+    fill: white;
+}
