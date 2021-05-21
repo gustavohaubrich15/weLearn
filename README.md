@@ -1,2 +1,10 @@
-# weLearn
-Plataforma para auxiliar na compreensão de conteúdo
+# Web Learn
+
+## Ambiente web para auxiliar na compreensão de conteúdos
+
+### Desenvolvido com as seguintes tecnologias:
+- React Web (Hooks)
+- Node Js
+- Jwt
+- Bcrypt
+- ElephantSQL
